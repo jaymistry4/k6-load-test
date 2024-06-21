@@ -10,3 +10,5 @@ K6 load test sample scripts
   
   > Example with path: 
   D:\YourProjectsDirectory> k6 run .\sample-request.js
+
+![report](https://github.com/jaymistry4/k6-load-test/assets/22091684/763800f8-8d19-4ec8-80d2-a71f50003ace)
